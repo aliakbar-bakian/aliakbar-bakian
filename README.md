@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aliakbar</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img align="right" alt="aliakbar-bakian" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQxamVoeHpqNzJ5Z2MybjIzMTQ2MmwydnFnY3g3MHp3b2dmeW42ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" </img>
-<img align="center" alt="aliakbar-bakian" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVlYXEycThlemQ4bW1tcTJpczc3N3p6b3JybWt5bXN4NDVmcThuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" </img>
 
 <p align="top"> <img src="https://komarev.com/ghpvc/?username=aliakbar-bakian&label=Profile%20views&color=0e75b6&style=flat" alt="aliakbar-bakian" /> </p>
 
