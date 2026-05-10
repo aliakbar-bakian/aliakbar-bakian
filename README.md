@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aliakbart.bakian@gmail.com**
 
-- ⚡ **ENJOY THE NOW**
+- ⚡ **ENJOY THE MOMENT**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
