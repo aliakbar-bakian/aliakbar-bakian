@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Bootstrap 5 and Java Script**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aliakbar-bakian/aliakbar-bakian](https://github.com/aliakbar-bakian/aliakbar-bakian)
-
 - 📫 How to reach me **aliakbar.bakian@gmail.com**
 
 - ⚡ **ENJOY THE MOMENT**
